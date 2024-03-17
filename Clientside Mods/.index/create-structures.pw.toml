@@ -1,0 +1,13 @@
+filename = 'create-structures-0.1.0.jar'
+name = 'Create: Structures'
+side = 'server'
+
+[download]
+hash = '97881ec893234cd090142586a5e85180ec2faac9bffa92e4bbec4728350928b67708eac469dec8c8033c3cfd45949dc7312f8632be9b601b531199ac2303e77e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/IAnP4np7/versions/T6pIYgOM/create-structures-0.1.0.jar'
+
+[update.modrinth]
+mod-id = 'IAnP4np7'
+version = 'T6pIYgOM'

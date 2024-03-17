@@ -1,0 +1,13 @@
+filename = 'canary-mc1.19.2-0.3.3.jar'
+name = 'Canary'
+side = 'both'
+
+[download]
+hash = 'b322c34c17192de0ed98ed5243802c6770de9f304a209245097dc410a659071b580f36e4c7fd95cf2e218cdaab406dd94fc74f47b80aaf9ad166dfbc8dad5794'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/qa2H4BS9/versions/kbjigmpt/canary-mc1.19.2-0.3.3.jar'
+
+[update.modrinth]
+mod-id = 'qa2H4BS9'
+version = 'kbjigmpt'

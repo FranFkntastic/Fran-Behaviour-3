@@ -1,0 +1,13 @@
+filename = 'tetraextras-0.1.3-1.19.jar'
+name = 'Tetra Extras'
+side = 'both'
+
+[download]
+hash = '6c7330edda76f9af765a296d2901825b1efeb66c232f442adb85e4ca7e5718b3fb4e831adeffaa90fca6285ed4fb02787f60d5bb0bce264a4ace621d6fa2c284'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wDvpvvcU/versions/GxoJkWAM/tetraextras-0.1.3-1.19.jar'
+
+[update.modrinth]
+mod-id = 'wDvpvvcU'
+version = 'GxoJkWAM'

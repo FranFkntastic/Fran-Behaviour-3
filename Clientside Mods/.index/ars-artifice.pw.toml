@@ -1,0 +1,13 @@
+filename = 'ars_artifice-1.19.2-1.0.6.jar'
+name = 'Ars Artifice'
+side = 'both'
+
+[download]
+hash = 'ce39dbbe18cba574dc0ef5d37cd46e21665a95acc7bb71907049d9783682229364ebae6ada182a579cb8f258c37afcdfa690ee68e1b34e6f96dc899324aba757'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/kMpXC38Q/versions/SABDwpAr/ars_artifice-1.19.2-1.0.6.jar'
+
+[update.modrinth]
+mod-id = 'kMpXC38Q'
+version = 'SABDwpAr'

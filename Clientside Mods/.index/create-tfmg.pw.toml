@@ -1,0 +1,13 @@
+filename = 'createindustry-0.8.0b-1.19.2.jar'
+name = 'Create: The Factory Must Grow'
+side = 'both'
+
+[download]
+hash = 'c6d69ab92cebaa645fddf06d844c5671c15abbf5891f65bb8bd3a9c7d51dbfd5db5ffa00ff551ecd2e947f04e4947e05834f4657a3430d07a4d2064e2afee635'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/USgVjXsk/versions/DaZCuACN/createindustry-0.8.0b-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'USgVjXsk'
+version = 'DaZCuACN'

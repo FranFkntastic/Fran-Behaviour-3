@@ -1,0 +1,13 @@
+filename = 'highlight-1.0.0-forge.jar'
+name = 'Highlight'
+side = 'client'
+
+[download]
+hash = 'a867bcedf0dfb755f07d6d6614d594a0c852ba94378b908b48b7ac9eeabef817acbe2b9f552b74292db67dd4e5c524aae241ff45694ec74e102175af599ff0a7'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Vz96hXMh/versions/kKxmovoP/highlight-1.0.0-forge.jar'
+
+[update.modrinth]
+mod-id = 'Vz96hXMh'
+version = 'kKxmovoP'

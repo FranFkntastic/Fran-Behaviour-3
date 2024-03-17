@@ -1,0 +1,13 @@
+filename = 'ImmediatelyFast-Forge-1.2.10+1.19.2.jar'
+name = 'ImmediatelyFast'
+side = 'client'
+
+[download]
+hash = 'e92fa82b38bae70a459ff2d35df1e6faad5d044c6f88f30ab7e0a80f076babb5e5a40e84c2e1590f9a440a99a82efefc21ca4715542d25917cb46a6b5056e116'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5ZwdcRci/versions/sZaOJ6hY/ImmediatelyFast-Forge-1.2.10%2B1.19.2.jar'
+
+[update.modrinth]
+mod-id = '5ZwdcRci'
+version = 'sZaOJ6hY'

@@ -1,0 +1,13 @@
+filename = 'notenoughcrashes-5.0.0+1.19.2-forge.jar'
+name = 'Not Enough Crashes'
+side = 'both'
+
+[download]
+hash = '92abb58b9323f69f6d845b35b946b1aec78ea97c0af4dad2f503b57c1a9dd045a7bc6b70e8cfe4fdb76cee1f2d30cb59b344918ed91d23bca6ef24176c00711e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yM94ont6/versions/CBGo7yB8/notenoughcrashes-5.0.0%2B1.19.2-forge.jar'
+
+[update.modrinth]
+mod-id = 'yM94ont6'
+version = 'CBGo7yB8'

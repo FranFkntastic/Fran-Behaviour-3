@@ -1,0 +1,13 @@
+filename = 'konkrete_forge_1.8.0_MC_1.19-1.19.2.jar'
+name = 'Konkrete'
+side = 'both'
+
+[download]
+hash = 'e96fc686810648d224f8efb42c9f02a1c75610fe5851865ec3e7548201ce17c91562a594eeb7517c83295c64b892aec7fc9e7445879058d56886a9b9ce826801'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/J81TRJWm/versions/QMv1le10/konkrete_forge_1.8.0_MC_1.19-1.19.2.jar'
+
+[update.modrinth]
+mod-id = 'J81TRJWm'
+version = 'QMv1le10'

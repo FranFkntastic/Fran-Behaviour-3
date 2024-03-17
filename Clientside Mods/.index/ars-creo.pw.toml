@@ -1,0 +1,13 @@
+filename = 'ars_creo-1.19.2-3.2.1.jar'
+name = 'Ars Creo'
+side = 'both'
+
+[download]
+hash = '086b967bcc05df09172fb3e30218ce399a73a35fc9c4820e325fa829f1b805afede3b5f88922cc857292ad7895715aec2ddfff786921ba2fd63343dddd36e2f4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/fZ324GMc/versions/dUwZd01u/ars_creo-1.19.2-3.2.1.jar'
+
+[update.modrinth]
+mod-id = 'fZ324GMc'
+version = 'dUwZd01u'

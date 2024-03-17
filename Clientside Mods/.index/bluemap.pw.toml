@@ -1,0 +1,13 @@
+filename = 'BlueMap-3.13-forge-1.19.1.jar'
+name = 'BlueMap'
+side = 'server'
+
+[download]
+hash = 'b0f15a59d34764571c200e3e994ca573eecb5e6782adc36c90599f840b7afd105d3e6b47dcc99c984edee6a1a47759de0b62a3e468f712c1c065a48fd557176e'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/swbUV1cr/versions/guHqbtbc/BlueMap-3.13-forge-1.19.1.jar'
+
+[update.modrinth]
+mod-id = 'swbUV1cr'
+version = 'guHqbtbc'

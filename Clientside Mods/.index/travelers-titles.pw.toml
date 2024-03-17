@@ -1,0 +1,13 @@
+filename = 'TravelersTitles-1.19.2-Forge-3.1.2.jar'
+name = "Traveler's Titles"
+side = 'client'
+
+[download]
+hash = 'e466d863dcbf946e5065da827de7fc9ba3632967adbd28045c8f4049a79a089b37f7a9b0f025ab5ece35eaca1b72e79839bc9b7da8ed92c1e4b3560b8640d8b5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/JtifUr64/versions/nIfqKsvT/TravelersTitles-1.19.2-Forge-3.1.2.jar'
+
+[update.modrinth]
+mod-id = 'JtifUr64'
+version = 'nIfqKsvT'

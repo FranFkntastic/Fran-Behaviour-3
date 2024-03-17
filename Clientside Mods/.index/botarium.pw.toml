@@ -1,0 +1,13 @@
+filename = 'botarium-forge-1.19.2-1.9.2.jar'
+name = 'Botarium'
+side = 'both'
+
+[download]
+hash = '5b12538c52410e25d30b17b9cdc6563ea3209d5855263719336283ed49c327d9e11921c4ac40093d99d7d321d1bd84be3525d729e42090496564e7fac6ed77d5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/2u6LRnMa/versions/d3FyC3ZY/botarium-forge-1.19.2-1.9.2.jar'
+
+[update.modrinth]
+mod-id = '2u6LRnMa'
+version = 'd3FyC3ZY'

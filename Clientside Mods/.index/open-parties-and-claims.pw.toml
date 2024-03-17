@@ -1,0 +1,13 @@
+filename = 'open-parties-and-claims-forge-1.19.2-0.20.4.jar'
+name = 'Open Parties and Claims'
+side = 'both'
+
+[download]
+hash = '349950307c052575cdb7a231b15c72bc33e88eb1537b4b21f6897487a4eb37fe06b0c12bbc3e69ad65e03ed7b2a002fd86bbc69169c9404256c73e143575620b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gF3BGWvG/versions/wo2LisDc/open-parties-and-claims-forge-1.19.2-0.20.4.jar'
+
+[update.modrinth]
+mod-id = 'gF3BGWvG'
+version = 'wo2LisDc'

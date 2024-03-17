@@ -1,0 +1,13 @@
+filename = 'DungeonsArise-1.19.2-2.1.56-beta.jar'
+name = 'When Dungeons Arise'
+side = 'server'
+
+[download]
+hash = '4e6668fd6f7b45ff3f0f5cf5fc7e51f5cebba81494a7bf9c5fe8fcfc929dac15e7ab8dbe4217c15aa17ef41c2c12c2b436891a71c1385a818197d03c6acd6e12'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8DfbfASn/versions/GDuhbEYT/DungeonsArise-1.19.2-2.1.56-beta.jar'
+
+[update.modrinth]
+mod-id = '8DfbfASn'
+version = 'GDuhbEYT'

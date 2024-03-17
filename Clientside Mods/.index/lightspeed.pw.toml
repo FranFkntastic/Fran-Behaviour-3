@@ -1,0 +1,13 @@
+filename = 'lightspeed-1.19.2-1.0.5.jar'
+name = 'Lightspeed'
+side = 'client'
+
+[download]
+hash = 'cd98bed828df04379383be281c16984271f6933dc3bac3525ba7f7fa926777563047e1549b5d795f2c6827a4908bd7706c015089239fba72220dda393d56c53a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/US93mifm/versions/fZzwk293/lightspeed-1.19.2-1.0.5.jar'
+
+[update.modrinth]
+mod-id = 'US93mifm'
+version = 'fZzwk293'

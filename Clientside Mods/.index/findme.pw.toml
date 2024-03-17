@@ -1,0 +1,13 @@
+filename = 'findme-3.1.0-forge.jar'
+name = 'FindMe'
+side = 'both'
+
+[download]
+hash = '02678b4ccf051b040d7e2021d153bf346399c226'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3910001
+project-id = 291936

@@ -1,0 +1,13 @@
+filename = 'JourneyPAC-forge-1.19.2-1.1.5.jar'
+name = 'JourneyPAC'
+side = 'client'
+
+[download]
+hash = '58edd2de114c89f782148226339e7dae0dcd6e1fc19c18ff8265267dbecb2b5e9d3b160a4713172b3031c19003a6dc416441a4ebf7f6b243390327585cdcde2a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UUErFmkX/versions/je6dbGKQ/JourneyPAC-forge-1.19.2-1.1.5.jar'
+
+[update.modrinth]
+mod-id = 'UUErFmkX'
+version = 'je6dbGKQ'

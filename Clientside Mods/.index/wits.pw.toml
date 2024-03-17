@@ -1,0 +1,13 @@
+filename = 'wits-1.1.0+1.19.2-forge.jar'
+name = 'WITS (What Is This Structure?)'
+side = 'both'
+
+[download]
+hash = '9245c14a76063eda55f0e57c6f3cc9b603e98033'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4789312
+project-id = 909375

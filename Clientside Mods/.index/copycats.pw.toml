@@ -1,0 +1,13 @@
+filename = 'Copycats-forge.1.19.2-1.2.0.jar'
+name = 'Create: Copycats+'
+side = 'both'
+
+[download]
+hash = '4f9e17e21eadd95ade553754ed3c32c7630a4e6232fa428c690bd8a8107c2b88077e7e12e877efcf4acfba3eb9ff0d2d8a17b9dab6b762e01849fbf1f1a9143b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UT2M39wf/versions/AOpAQAOA/Copycats-forge.1.19.2-1.2.0.jar'
+
+[update.modrinth]
+mod-id = 'UT2M39wf'
+version = 'AOpAQAOA'

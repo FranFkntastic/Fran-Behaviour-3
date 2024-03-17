@@ -1,0 +1,13 @@
+filename = 'Nullscape_1.19.3_v1.2.2.jar'
+name = 'Nullscape'
+side = 'server'
+
+[download]
+hash = '294ad7871bdef3e0c45da3fc5e811d2ab40340209b1cfda79a90e672255606e308f1d05925087fff2447440066532530a5e0931f93a0b892ba2ee99b05e0bc45'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LPjGiSO4/versions/M1tAEtbt/Nullscape_1.19.3_v1.2.2.jar'
+
+[update.modrinth]
+mod-id = 'LPjGiSO4'
+version = 'M1tAEtbt'
